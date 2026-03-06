@@ -15,7 +15,7 @@ export default function HomePage() {
               🎓 Platforma e-learningowa #1 w Polsce
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight mb-6">
-              Ucz się od ekspertów. !!!!!!!!!!<br />
+              Ucz się od ekspertów. --------------------<br />
               <span className="text-yellow-300">Rozwijaj się każdego dnia.</span>
             </h1>
             <p className="text-lg md:text-xl text-indigo-100 mb-8 max-w-2xl">
